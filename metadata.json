@@ -1,0 +1,6 @@
+{
+  "name": "Orixa Enterprise Intelligence",
+  "description": "Enterprise Intelligence Operating System for organization understanding, prediction, and operational protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
